@@ -1,0 +1,6 @@
+openai
+playwright
+chromadb
+requests
+bs4
+pillow
